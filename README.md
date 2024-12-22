@@ -1,6 +1,41 @@
-<div>## 🌷 About Me:
-👋 Hi there!<br>I'm Anannya, a passionate Data Science and Economics student with a keen interest in artificial intelligence, machine learning, and deep learning. I enjoy building innovative projects that solve real-world problems using data-driven approaches.<br><br>🌟 Current Focus<br>I'm currently exploring advanced machine learning techniques and neural networks while working on projects that combine predictive modeling and deep learning frameworks.<br><br>💻 Skills and Interests<br>Skills: Python, TensorFlow, PyTorch, R, SQL, C++, STATA, Git, Data Analysis<br>Interests: AI for social good, computer vision, natural language processing, and explainable AI<br>🚀 Projects and Achievements<br>Developed a machine learning classifier for handwritten Hindi characters using custom-built models (repo).<br>Created a Dash app to visualize penguin species data for data storytelling.<br>Experimented with NLP models to perform sentiment analysis on customer reviews (repo).<br>🤝 Let’s Collaborate!<br>I’m always looking to collaborate on ML research, deep learning projects, or open-source contributions. If you’re working on something exciting, let’s connect!<br><br>✨ Fun Fact<br>When I’m not coding, I love exploring the intersection of AI and fashion tech or playing around with creative data visualizations.<br><br>📬 Get in Touch<br>Feel free to reach out via LinkedIn or check out my portfolio.</div>
-<div></div>![_](https://github.com/user-attachments/assets/03126605-ab87-4e1a-8c63-f58355c61912)</div>
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
+  
+## 🌷 About Me:
+
+👋 Hi there!<br>
+I'm Anannya, a passionate Data Science and Economics student with a keen interest in artificial intelligence, machine learning, and deep learning. I enjoy building innovative projects that solve real-world problems using data-driven approaches.<br><br>
+
+🌟 **Current Focus**<br>
+I'm currently exploring advanced machine learning techniques and neural networks while working on projects that combine predictive modeling and deep learning frameworks.<br><br>
+
+💻 **Skills and Interests**<br>
+**Skills**: Python, TensorFlow, PyTorch, R, SQL, C++, STATA, Git, Data Analysis<br>
+**Interests**: AI for social good, computer vision, natural language processing, and explainable AI<br><br>
+
+🚀 **Projects and Achievements**<br>
+- Developed a machine learning classifier for handwritten Hindi characters using custom-built models ([repo](#)).<br>
+- Created a Dash app to visualize penguin species data for data storytelling.<br>
+- Experimented with NLP models to perform sentiment analysis on customer reviews ([repo](#)).<br><br>
+
+🤝 **Let’s Collaborate!**<br>
+I’m always looking to collaborate on ML research, deep learning projects, or open-source contributions. If you’re working on something exciting, let’s connect!<br><br>
+
+✨ **Fun Fact**<br>
+When I’m not coding, I love exploring the intersection of AI and fashion tech or playing around with creative data visualizations.<br><br>
+
+📬 **Get in Touch**<br>
+Feel free to reach out via [LinkedIn](#) or check out my [portfolio](#).
+
+</div>
+
+<div style="flex: 1; text-align: center;">
+<img src="https://github.com/user-attachments/assets/03126605-ab87-4e1a-8c63-f58355c61912" alt="GIF" width="300">
+</div>
+
+</div>
+
 
 
 ## 💻 Tech Stack:
