@@ -11,7 +11,7 @@ I'm currently exploring advanced machine learning techniques and neural networks
 **Interests**: AI for social good, computer vision, natural language processing, and explainable AI<br><br>
 
 🚀 **Projects and Achievements**<br>
-- Developed a machine learning classifier for handwritten Hindi characters using custom-built models ((https://github.com/anannyaumesh/HindiOCR-CNN.git)).<br>
+- Developed a machine learning classifier for handwritten Hindi characters using custom-built models [repo](https://github.com/anannyaumesh/HindiOCR-CNN.git).<br>
 - Created a Dash app to visualize penguin species data for data storytelling.<br>
 - Experimented with NLP models to perform sentiment analysis on customer reviews ([repo](#)).<br><br>
 
