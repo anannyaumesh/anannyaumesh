@@ -1,32 +1,41 @@
 ## 🌷 About Me
 
-👋 Hi there!<br>
-I'm Anannya, a passionate Data Science and Economics student with a keen interest in artificial intelligence, machine learning, and deep learning. I enjoy building innovative projects that solve real-world problems using data-driven approaches.<br><br>
+Hi, I'm Anannya, a final-year Data Science & Economics student at FLAME University (100% merit scholarship), working at the intersection of applied machine learning, causal inference, and development economics. I build ML systems for high-stakes, real-world problems and care about whether they actually work for the people who use them.
 
-🌟 **Current Focus**<br>
-I'm currently exploring advanced machine learning techniques and neural networks while working on projects that combine predictive modeling and deep learning frameworks.<br><br>
+Currently applying to data science masters programs for Fall 2027.
 
-💻 **Skills and Interests**<br>
-**Skills**: Python, TensorFlow, PyTorch, R, SQL, C++, STATA, Git, Data Analysis<br>
-**Interests**: AI for social good, computer vision, natural language processing, and explainable AI<br><br>
+### 🔬 Current Research
 
-🚀 **Projects and Achievements**<br>
-- Developed a machine learning classifier for handwritten Hindi characters using custom-built models [(repo)](https://github.com/anannyaumesh/HindiOCR-CNN.git).<br>
-- Created a Dash app to visualize penguin species data for data storytelling.<br>
-- Experimented with NLP models to perform sentiment analysis on customer reviews ([repo](#)).<br><br>
+- **ICDAR 2026 CMMHWR Competition**: competing in the medieval handwriting recognition challenge with custom ViT/Swin encoder-decoder architectures and a 1,000-token BPE tokenizer. Current best: ~0.096 CER with a 5-model ensemble. [(repo)](https://github.com/anannyaumesh/medeival-handwriting-recognition)
+- **Working Paper (under peer review at ACBES 2026)**: *"When Does Agricultural Price Volatility Matter for Financial Inclusion? Environmental Constraints and Heterogeneous Effects Across Indian Districts."* Combines OLS, quantile regression, Random Forests, SHAP, and Causal Forests across Indian districts. [SSRN](https://ssrn.com/abstract=6475118)
+- **Undergraduate Researcher**, RuDRA Lab, IIT Bombay.
 
-🤝 **Let’s Collaborate!**<br>
-I’m always looking to collaborate on ML research, deep learning projects, or open-source contributions. If you’re working on something exciting, let’s connect!<br><br>
+### 🚀 Selected Projects
 
-✨ **Fun Fact**<br>
-When I’m not coding, I love exploring the intersection of AI and fashion tech or playing around with creative data visualizations.<br><br>
+- **[KisanSense](https://github.com/anannyaumesh/kisansense)**: end-to-end ML system predicting district-level crop stress 14 days ahead from Sentinel-2, NASA POWER, ERA5, and ICRISAT data. SHAP-explained risk scores, Hindi/English LLM-generated farmer advisories designed for SMS/IVR delivery, and a Streamlit dashboard.
+- **[Medieval Handwriting Recognition](https://github.com/anannyaumesh/medeival-handwriting-recognition)**: ViT and Swin encoder-decoder models with a custom BPE tokenizer for the ICDAR 2026 CMMHWR competition.
+- **[LLM Failure Mode Explorer](https://github.com/anannyaumesh/llm-failure-mode-explorer)**: tooling for systematically probing LLM failure modes across prompts and conditions.
 
-📬 **Get in Touch**<br>
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/anannya-umesh-42a523248/) or check out my [portfolio](#).
+### 🛠️ Tools I Use
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+**Languages:** Python, R, SQL, STATA, C++, LaTeX
+**ML/DL:** PyTorch, Hugging Face Transformers, scikit-learn, XGBoost, SHAP
+**Data:** pandas, NumPy, GeoPandas, Sentinel/ERA5 pipelines
+**Other:** Streamlit, Git, CUDA, Linux
+
+### 🎯 Research Interests
+
+Causal machine learning, interpretability under distribution shift, LLM evaluation in high-stakes and low-resource settings, ML for development economics, computer vision for low-resource document understanding.
+
+### ✨ Beyond the Code
+
+State-level rifle shooter and karate black belt. Competitive sports taught me how to ship under pressure and lose well enough to get better. I read across development economics and AI safety, and I'm always up for a conversation about either.
+
+### 📬 Get in Touch
+
+[LinkedIn](https://www.linkedin.com/in/anannya-umesh-42a523248/) · anannya.umesh@gmail.com
+
 ---
 
-
-
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
