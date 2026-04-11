@@ -2,8 +2,6 @@
 
 Hi, I'm Anannya, a final-year Data Science & Economics student at FLAME University (100% merit scholarship), working at the intersection of applied machine learning, causal inference, and development economics. I build ML systems for high-stakes, real-world problems and care about whether they actually work for the people who use them.
 
-Currently applying to data science masters programs for Fall 2027.
-
 ### 🔬 Current Research
 
 - **ICDAR 2026 CMMHWR Competition**: competing in the medieval handwriting recognition challenge with custom ViT/Swin encoder-decoder architectures and a 1,000-token BPE tokenizer. Current best: ~0.096 CER with a 5-model ensemble. [(repo)](https://github.com/anannyaumesh/medeival-handwriting-recognition)
