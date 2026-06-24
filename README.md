@@ -28,4 +28,4 @@ Systematic tooling for probing LLM failure modes across prompts and conditions.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/anannya-umesh-42a523248/) · anannya.umesh@gmail.com
+[LinkedIn](https://www.linkedin.com/in/anannya-umesh-42a523248/) · anannyaumesh@gmail.com
